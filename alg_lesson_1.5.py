@@ -11,5 +11,6 @@ for i in range(len(alph)):
         print(f'Под номером {letter} расположена буква {alph[i-1]}')
 
 """
+
 letter = int(input("Введите номер от 1 до 33: " ))
 print(chr(letter+96))

@@ -19,5 +19,9 @@ while n <= amount_numbers:
     n += 1
     if amount > max_number:
         max_number = amount
+        max_sum = number
 
-print(max_number)
+
+print(f'Это число {max_sum}')
+print(f' Сумма цифр равна {max_number}')
+

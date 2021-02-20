@@ -7,7 +7,7 @@ m = 1
 summa = 0
 i = -2
 while m <= n:
-    i /= -2
     m += 1
+    i /= -2
     summa += i
 print(summa)

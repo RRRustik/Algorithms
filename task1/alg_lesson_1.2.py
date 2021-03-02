@@ -7,6 +7,7 @@ By = int(input("Введите y точки B: "))
 
 
 
+
 k = (By-Bx) / (Bx-Ax)
 b = Ay - k * Ax
 
